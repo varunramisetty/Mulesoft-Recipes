@@ -1,0 +1,32 @@
+[ 
+        { 
+            "time": 1, 
+            "employee": "ram", 
+            "department": "hr" 
+        }, 
+        { 
+            "time": 5, 
+            "employee": "lakshman ", 
+            "department": "developer" 
+        }, 
+        { 
+            "time": 6, 
+            "employee": "ganesh", 
+            "department": "QA" 
+        }, 
+        { 
+            "time": 48, 
+            "employee": "hari", 
+            "department": "testing" 
+        }, 
+        { 
+            "time": 3, 
+            "employee": "Govinda", 
+            "department": "developer" 
+        }, 
+        { 
+            "time": 2, 
+            "employee": "krishna", 
+            "department": "developer" 
+        } 
+    ]
