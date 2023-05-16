@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "harish",
+    "Role": "vnr",
+    "Company": "kochi",
+    "Location": "kerala",
+    "Skills": [
+      {
+        "Skill": "MULE",
+        "SkillExp": "       1year"
+      },
+      {
+        "Skill": "Java Script",
+        "SkillExp": "4years"
+      },
+      {
+        "Skill": "MULE",
+        "SkillExp": "       3years"
+      }
+    ],
+    "courses": null
+  },
+  {
+    "Name": "rahul",
+    "Role": "vr",
+    "Company": "kochi",
+    "Location": "kerala",
+    "Skills": null,
+    "Courses": [
+      {
+        "Course": "DB",
+        "CourseExp": "         2years"
+      },
+      {
+        "Course": "RTF",
+        "CourseExp": "        1year"
+      },
+      {
+        "Skill": "MULE",
+        "SkillExp": "         2years"
+      }
+    ]
+  }
+]
