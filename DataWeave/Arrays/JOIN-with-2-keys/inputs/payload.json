@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "dev",
+        "Requried": true
+    },
+    {
+        "id": 2,
+        "name": "prod",
+        "Requried": true
+    },
+    {
+        "id": 3,
+        "name": "QA",
+        "Requried": false
+    }
+]
