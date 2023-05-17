@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "value": [
+    {
+      "id": 1,
+      "userId": "api@gmail.com",
+      "eMail": "apicentrics@gmail.com",
+      "userType": "Company",
+      "Status": "Mule Dev",
+      "firstName": "varun",
+      "lastName": "Ramisetty",
+      "roles": [
+        "System",
+        "Reviewer",
+        "ReportAccess",
+        "Access",
+        "Other",
+        "Pow",
+        "Firm"
+      ]
+    },
+    {
+      "id": 9,
+      "userId": "apic@gmail.com",
+      "eMail": "centrics@gmail.com",
+      "userType": "Company",
+      "masterUserStatus": "Active",
+      "firstName": "satya",
+      "lastName": "katiki",
+      "roles": [
+        "SAdmin",
+        "TK",
+        "Access",
+        "rtAccess",
+        "tAccess",
+        "Reports",
+        "Schedule",
+        "Powe",
+        "Power",
+        "Firm"
+      ]
+    }
+  ]
+}
