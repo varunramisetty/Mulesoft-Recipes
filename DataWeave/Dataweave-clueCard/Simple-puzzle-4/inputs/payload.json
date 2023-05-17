@@ -1,0 +1,1 @@
+//var capitalized = input splitBy " " map ((word) -> word[0] uppercase ++ word[1 to -1]) joinBy " "
