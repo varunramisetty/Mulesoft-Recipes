@@ -1,0 +1,5 @@
+{
+  "firstName": inputObject.name,
+  "ageGroup": if (inputObject.age < 18) "Minor" else "Adult",
+  "location": inputObject.city
+}
