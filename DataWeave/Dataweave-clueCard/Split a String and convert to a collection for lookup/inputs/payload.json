@@ -1,0 +1,14 @@
+%dw 2.0
+import * from dw::core::Arrays
+output application/json
+
+---
+payload.Notes splitBy (/[,\/]/) map ((item, index) ->
+ 
+        item splitBy (/[:\/]/) 
+    ) map ((item, index) ->
+    {
+       (item[0]): item[1]
+    }
+
+) reduce ((item, accumulator) -> accumulator ++ item)
