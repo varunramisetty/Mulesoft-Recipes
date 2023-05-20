@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Max",
+        "email": "varun@api.com",
+        "phone": "91 8143222313",
+        "company": "MuleSoft"
+        },
+        {
+            "name": "Mule",
+            "email": "varun@gmail.com",
+            "phone": "91 8885544397",
+            "company": "Salesforce"
+    }
+]
