@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "category": {
+        "name": "INTERNET",
+        "services": [
+          {
+            "category": "FR",
+            "serviceType": "FR",
+            "available": false,
+            "accountDetails": [
+              {
+                "banNum": "800882473",
+                "status": "O"
+              }
+            ]
+          },
+          {
+            "category": "SDL",
+            "serviceType": "SDL",
+            "available": true,
+            "accountDetails": [
+              {
+                "acNumber": "11111",
+                "status": "A",
+                "inventor": true,
+                "migration": false,
+                "indicator": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "category": {
+        "name": "WLS",
+        "services": [
+          {
+            "category": "wireless",
+            "desc": "wireless",
+            "available": true
+          }
+        ]
+      }
+    }
+  ]
+}
