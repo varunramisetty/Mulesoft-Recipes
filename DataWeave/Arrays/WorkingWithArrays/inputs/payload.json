@@ -1,0 +1,52 @@
+[
+	{
+		"id": "d6849b0c-7a71-4640-a81f-a87d784de451",
+		"productName":"IPohone6 - 8GB",
+		"vendor":"Apple",
+		"status":"ACTIVE",
+		"currency":"USD",
+		"price": 599,
+		"discount": 25,
+		"tax": 50
+	},
+	{
+		"id": "d7dd6bae-5459-41af-a7e3-a185c7574127",
+		"productName":"Iphone14 - 256GB",
+		"vendor":"Apple",
+		"status":"ACTIVE",
+		"currency":"USD",
+		"price": 999,
+		"discount": 25,
+		"tax": 90
+	},
+	{
+		"id": "d7dd6bae-5459-41af-a7e3-a185c7574127",
+		"productName":"Iphone14 pro - 128GB",
+		"vendor":"Apple",
+		"status":"ACTIVE",
+		"currency":"USD",
+		"price": 999,
+		"discount": 25,
+		"tax": 100
+	},
+	{
+		"id": "b0b16bb3-9e7a-41a6-8e02-cc3f466e952d",
+		"productName":"Samsung S1 - 16GB",
+		"vendor":"Samsung",
+		"status":"ACTIVE",
+		"currency":"USD",
+		"price": 899,
+		"discount": 0,
+		"tax": 80
+	},
+	{
+		"id": "ad4f7096-8321-43fc-832e-f3bc227db63b",
+		"productName":"Samsung A1 - 8GB",
+		"vendor":"Samsung",
+		"status":"DISCONTINUED",
+		"currency":"USD",
+		"price": 699,
+		"discount": 0,
+		"tax": 10
+	}
+]
