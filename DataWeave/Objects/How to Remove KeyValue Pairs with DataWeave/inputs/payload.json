@@ -1,0 +1,20 @@
+{
+  "notification": [
+    {
+      "status": {
+        "code": "BILLING",
+        "value": "Past Due"
+      },
+      "count": 1
+    }
+  ],
+  "notification1": [
+    {
+      "status": {
+        "code": "RENEWAL",
+        "value": "Past Due"
+      },
+      "count": 1
+    }
+  ]
+}
