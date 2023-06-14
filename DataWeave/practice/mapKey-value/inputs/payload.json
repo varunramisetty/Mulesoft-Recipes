@@ -1,0 +1,14 @@
+[
+  {
+    "category": "basic",
+    "price": 25.99
+  },
+  {
+    "category": "premium",
+    "price": 65.25
+  },
+  {
+    "category": "vip",
+    "price": 99.2
+  }
+]
