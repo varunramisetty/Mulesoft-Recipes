@@ -1,15 +1,12 @@
 %dw 2.0
-output application/json 
+output application/json
 ---
-{
-  acct_id: payload.test[0].acct_id,
-// It accesses the acct_id value inside the test array at index 0.
-  orderitems: payload.test[0].orderitems map ((item, index) -> {
-    client_sku: lower(item.client_sku),
-    units: item.units
-  })
-}
+{(payload map (
+($.field_key) :$.field_value
+))}
 
 
-//The map function is used to iterate over each element in the orderitems array.
-// Inside the map function, for each item in the orderitems array, it creates a new object with client_sku and units fields. The client_sku field is set to the lowercase version of item.client_sku, and the units field remains the same as item.units.
+// The expression in the above iterates over each item in the payload array and creates a new key-value pair for each item. 
+
+//The key is extracted from $.field_key, and the value is extracted from $.field_value. 
+//The ($) syntax is used to reference the current item being processed in the map function.
