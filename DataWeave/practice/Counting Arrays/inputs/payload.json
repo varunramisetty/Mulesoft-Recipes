@@ -1,0 +1,24 @@
+{
+  "School": [
+    {
+      "Student": {
+        "name": "jack",
+        "games": {
+          "set1": [
+            "cricket",
+            "pubg",
+            "cc"
+          ],
+          "set2": [
+            "clash",
+            "clan"
+          ],
+          "set3": [
+            "cricket",
+            "cc"
+          ]
+        }
+      }
+    }
+  ]
+}
