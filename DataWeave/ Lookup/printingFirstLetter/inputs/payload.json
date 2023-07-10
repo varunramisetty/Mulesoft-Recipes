@@ -1,0 +1,7 @@
+{
+"EmpSalary" : 80000,
+ "EmpName" : "varun",
+ "TypeofEmploye" : "Contract",
+ "Country" : ["India", "Pakistan","USA","Londan","Canada"]
+ }
+ 
