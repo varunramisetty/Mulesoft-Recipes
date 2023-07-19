@@ -1,0 +1,42 @@
+[
+  {
+    "myplan": "11124001",
+    "myplanBc": "11124",
+    "myplanQty": "10.000"
+  },
+  {
+    "myplan": "11123001",
+    "myplanBc": "11123",
+    "myplanQty": "10.000"
+  },
+  {
+    "myplan": "11123002",
+    "myplanBc": "11123",
+    "myplanQty": "20.000"
+  },
+  {
+    "myplan": "11125001",
+    "myplanBc": "11125",
+    "myplanQty": "0.000"
+  },
+  {
+    "myplan": "11125002",
+    "myplanBc": "11125",
+    "myplanQty": "0.000"
+  },
+  {
+    "myplan": "11125003",
+    "myplanBc": "11125",
+    "myplanQty": "10.000"
+  },
+  {
+    "myplan": "11126001",
+    "myplanBc": "11126",
+    "myplanQty": "10.000"
+  },
+  {
+    "myplan": "11126002",
+    "myplanBc": "11126",
+    "myplanQty": "12.000"
+  }
+]
